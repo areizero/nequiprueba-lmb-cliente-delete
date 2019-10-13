@@ -10,7 +10,7 @@ const headers = {
 }
 
 /**
- * Servicio que actualiza un cliente
+ * Servicio que elimina un cliente
  */
 module.exports.remove = async (event, context) => {
   try {
